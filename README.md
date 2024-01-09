@@ -17,7 +17,6 @@ Information Retrivel, Language Technology, Ph.D in IT Doctoral
   Research interest on adaptation of resources to less-resourced languages related sentiment modeling, machine learning, transfer learning, ensemble learning, etc.
   Familiar to course works covering agent-based information retrieval, multimedia information retrieval, knowledge base representations, text mining, NLP, and advanced seminar courses.
   Won grant on brain computer interface research project, focusing on emotion detection to image stimuli.
-
 - PG Cert., Computer Vision | Erasmus, H-Watt, UK (_March 2009/10_)
   Specialized in Computer Vision, Data mining, Fundamentals of Image Processing, Technical Research Writing and Fundamentals of Robotics.          		
 - M.Sc., IS	| Addis Ababa University (_August 2007_)
@@ -36,16 +35,19 @@ Addis Ababa Science and Technology University
 - Advising student in their MSc and PhD research projects, examining research proposals.
 - Core member of center of excellence of AI and Robotics, center of excellence of Big Data and High Performance Computing.
 - PG coordinator (PhD in Software Engineering, AI& Robotics, Big Data Analytics  and MSc in Software Engineering ) in software engineering, AASTU since April 27, 2022 till present.
-# Lecturer, Researcher and Director for CDP	Sept. 2011 - 2016 Addis Ababa Science and Technology University
+# Lecturer, Researcher and Director for CDP	Sept. 2011 - 2016 
+Addis Ababa Science and Technology University
 - Offering computer Science and Software Engineering Courses
 - Carrying out researches and involving in extracurricular activities
 - Managing distance learner in different satellite campuses
 - Currently Assistant Professor, department of Software Engineering, AASTU.
-# Lecturer and Chief Library, 2011 Mizan-Teppi
+# Lecturer and Chief Library, 2010/11 
+Mizan-Teppi University
 - Offering computer Science and Information Technology Courses
 - Carrying out researches and involving in extracurricular activities
 - Managing both digital and physical library resources
-# Lecturer and Chair of Computer and IT	Sept. 2007 - Aug.2009, Dilla University
+# Lecturer and Chair of Computer and IT	Sept. 2007 - Aug.2009, 
+Dilla University
 - Offering computer Science courses such as OOP, and Advanced Programming
 - Designing curriculum and involving in extracurricular activities
 - Managing the CS staffs
