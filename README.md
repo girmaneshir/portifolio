@@ -1,4 +1,4 @@
-# RESUME of GIRMA NESHIR
+# RESUME of GIRMA NESHIR 
 # Assistant Professor, Researcher, and  Data Scientist
 
 ### Specialization
