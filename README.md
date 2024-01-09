@@ -34,7 +34,6 @@ Carrying out Brain Computer Interface (BCI), Sentiment Modeling, Computer Vision
 ****etc****
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
 ## Talks on Workshops, Seminars & Conferences
 - .....
 
